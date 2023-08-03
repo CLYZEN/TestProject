@@ -32,7 +32,8 @@
 * [작업 규칙](#작업-규칙)
 
 <hr>
-##작업 규칙
+
+## 작업 규칙
 
 ### 커밋, 브랜치 네이밍 룰
 
@@ -61,6 +62,7 @@ ex)
 
 :cyclone:ing : 로그인 기능 완료 / redirect url 미완료
 <hr>
+
 ####브랜치
 
 ><strong>절대 main 브랜치에 push 하지 않습니다!! develop 브랜치에 push 합니다!!</strong>
