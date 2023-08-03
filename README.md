@@ -38,18 +38,27 @@
 
 #### 커밋
 
->:heavy_plus_sign:add : 새로운 기능에 대한 커밋
+:heavy_plus_sign:add : 새로운 기능에 대한 커밋
+
 :wrench:fix : 잘못된 부분 수정
+
 :bomb:build : 빌드 관련 파일 수정에 대한 커밋(application.properties, pom.xml ...)
+
 :pencil:chore : 그 외 자잘한 수정에 대한 커밋(기타 변경)
+
 :bookmark:docs : 문서 수정에 대한 커밋
+
 :boom:rm : 기능 삭제
+
 :ghost:refactor : 코드 리팩토링에 대한 커밋
+
 :cyclone:ing : 개발 중 커밋 (커밋 기준 ~~ 완료 / ~~ 미완료)
+
 :tada:complete : 기능 구현 완료에 대한 커밋
 
 ex)
 :heavy_plus_sign:add : 로그인 기능 add
+
 :cyclone:ing : 로그인 기능 완료 / redirect url 미완료
 <hr>
 #### 브랜치
