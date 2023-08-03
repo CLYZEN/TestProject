@@ -37,6 +37,7 @@
 ### 커밋, 브랜치 네이밍 룰
 
 #### 커밋
+
 :heavy_plus_sign:add : 새로운 기능에 대한 커밋
 :wrench:fix : 잘못된 부분 수정
 :bomb:build : 빌드 관련 파일 수정에 대한 커밋(application.properties, pom.xml ...)
