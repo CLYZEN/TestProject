@@ -22,6 +22,7 @@
 </table>
 <hr>
 
+### [요구사항 정의서](https://docs.google.com/spreadsheets/d/1c3k7rrJRm8aGR6yoAZmZ8RixZN8eySa9zoqF2jCsORs/edit#gid=0)
 ### [간트 차트](https://docs.google.com/spreadsheets/d/14Vpw906-2PBuaMtk_2xPcMcmKJ7Zt-6X10sSfAEXYeA/edit#gid=1115838130)
 ### [ERD](https://www.erdcloud.com/d/AJECkdDa5fRg4ioaw)
 
@@ -173,7 +174,4 @@ sampleCode.html
 ```
 #### 패키지명은 모두 소문자를 사용합니다.
 #### ENUM이나 상수는 대문자로 네이밍합니다.
-
-
-123
 
