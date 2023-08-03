@@ -21,8 +21,10 @@
   </tbody>
 </table>
 <hr>
+
 ### [간트 차트](https://docs.google.com/spreadsheets/d/14Vpw906-2PBuaMtk_2xPcMcmKJ7Zt-6X10sSfAEXYeA/edit#gid=1115838130)
 ### [ERD](https://www.erdcloud.com/d/AJECkdDa5fRg4ioaw)
+
 <hr>
 
 ## 📚 목차
