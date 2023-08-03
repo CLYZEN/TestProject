@@ -63,9 +63,9 @@ ex)
 :cyclone:ing : 로그인 기능 완료 / redirect url 미완료
 <hr>
 
-####브랜치
+#### 브랜치
 
-><strong>절대 main 브랜치에 push 하지 않습니다!! develop 브랜치에 push 합니다!!</strong>
+> <strong>절대 main 브랜치에 push 하지 않습니다!! develop 브랜치에 push 합니다!!</strong>
 
 ##### 브랜치 네이밍 규칙
 feature/#{리퀘스트 번호}-{기능분류}-{기능명}
